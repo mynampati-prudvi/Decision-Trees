@@ -1,0 +1,16 @@
+
+project : Decision Trees for Regression
+
+The dataset petrol_consumption.csvPreview the document file is taken from FSU dataset repository (http://people.sc.fsu.edu/~jburkardt/datasets/regression/x16.txt (Links to an external site.)Links to an external site.).
+
+For this dataset, use Decision Trees to try and predict gas consumption (in millions of gallons) in 48 US states based upon gas tax (in cents), per capita income (dollars), paved highways (in miles) and the proportion of the population with a driver license.
+
+Use Decision Trees to build a regressor for the give data. Use Grid Search to find the optimal value for the hyperparameters, and evaluate your model on the appropriate metrics.
+
+project : Decision Trees for Classification
+
+The bill_authentication.csvPreview the document file is taken from UCI Machine Learning repository (https://archive.ics.uci.edu/ml/datasets/banknote+authentication (Links to an external site.)Links to an external site.).
+
+Use this dataset to predict whether a bank note is authentic or fake depending upon the four different attributes of the image of the note. The attributes are Variance of wavelet transformed image, curtosis of the image, entropy, and skewness of the image.
+
+Use Decision Trees to build a classifier for the give data. Use Grid Search to find the optimal value for the hyperparameters, and evaluate your model on suitable metrics. Use graphviz to visualize your decision tree.
